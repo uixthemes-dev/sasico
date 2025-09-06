@@ -1,0 +1,22 @@
+<svg width="1290" height="667" viewBox="0 0 1290 667" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2032_2459" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1290" height="667">
+<path d="M15 0.5H1275C1283.01 0.5 1289.5 6.99187 1289.5 15V652C1289.5 660.008 1283.01 666.5 1275 666.5H15C6.99187 666.5 0.5 660.008 0.5 652V15C0.500006 6.99188 6.99188 0.5 15 0.5Z" fill="#F1FEE1" stroke="#EEEEEE"/>
+</mask>
+<g mask="url(#mask0_2032_2459)">
+<g filter="url(#filter0_f_2032_2459)">
+<circle cx="645" cy="-331" r="450" fill="#B9FB6A"/>
+</g>
+</g>
+<path d="M51 666H50V1H51V666ZM108 666H107V1H108V666ZM165 666H164V1H165V666ZM222 666H221V1H222V666ZM279 666H278V1H279V666ZM336 666H335V1H336V666ZM393 666H392V1H393V666ZM450 666H449V1H450V666ZM507 666H506V1H507V666ZM564 666H563V1H564V666ZM621 666H620V1H621V666ZM678 666H677V1H678V666ZM735 666H734V1H735V666ZM792 666H791V1H792V666ZM849 666H848V1H849V666ZM906 666H905V1H906V666ZM963 666H962V1H963V666ZM1020 666H1019V1H1020V666ZM1077 666H1076V1H1077V666ZM1134 666H1133V1H1134V666ZM1191 666H1190V1H1191V666ZM1248 666H1247V1H1248V666Z" fill="url(#paint0_linear_2032_2459)"/>
+<defs>
+<filter id="filter0_f_2032_2459" x="-205" y="-1181" width="1700" height="1700" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="200" result="effect1_foregroundBlur_2032_2459"/>
+</filter>
+<linearGradient id="paint0_linear_2032_2459" x1="1247.5" y1="1" x2="1247.5" y2="666" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0E0E0E" stop-opacity="0.07"/>
+<stop offset="1" stop-color="#0E0E0E" stop-opacity="0.02"/>
+</linearGradient>
+</defs>
+</svg>
