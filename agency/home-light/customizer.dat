@@ -1,0 +1,12 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:43:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:37;s:13:"header_layout";s:1:"6";s:13:"header_mobile";s:2:"19";s:13:"footer_layout";s:2:"24";s:12:"header_fixed";b:0;s:10:"blog_style";s:4:"grid";s:9:"blog_cols";s:6:"cols-3";s:11:"blog_layout";s:12:"full-content";s:15:"post_entry_meta";a:4:{i:0;s:4:"tags";i:1;s:4:"date";i:2;s:6:"author";i:3;s:4:"comm";}s:12:"bg_body_blog";a:1:{s:16:"background-color";s:0:"";}s:18:"single_post_layout";s:15:"sidebar-content";s:15:"site_theme_mode";s:10:"light-mode";s:11:"mdark_color";s:0:"";s:11:"mintc_color";s:7:"#faf8f4";s:9:"btn_color";s:0:"";s:10:"main_color";s:7:"#061f14";s:11:"sdark_color";s:7:"#061f14";s:14:"btn_icon_color";s:0:"";s:10:"pheader_bg";a:1:{s:16:"background-color";s:7:"#faf8f4";}s:23:"btn_solid_primary_color";s:7:"#ffffff";s:25:"btn_solid_primary_bgcolor";s:7:"#061f14";s:29:"btn_solid_primary_hover_color";s:7:"#061f14";s:31:"btn_solid_primary_hover_bgcolor";s:7:"#ffffff";s:28:"btn_solid_primary_icon_color";s:7:"#061f14";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#ffffff";s:34:"btn_solid_primary_hover_icon_color";s:7:"#ffffff";s:36:"btn_solid_primary_hover_icon_bgcolor";s:7:"#061f14";s:18:"btn_outline1_color";s:7:"#696969";s:25:"btn_outline1_border_color";s:9:"#061f141a";s:24:"btn_outline1_hover_color";s:7:"#ffffff";s:26:"btn_outline1_hover_bgcolor";s:7:"#061f14";s:23:"btn_outline1_icon_color";s:7:"#ffffff";s:25:"btn_outline1_icon_bgcolor";s:7:"#061f14";s:29:"btn_outline1_hover_icon_color";s:7:"#061f14";s:31:"btn_outline1_hover_icon_bgcolor";s:7:"#ffffff";s:10:"body_color";s:0:"";s:28:"btn_solid_dark_hover_bgcolor";s:7:"#ffffff";s:33:"btn_solid_dark_hover_border_color";s:9:"#061f141a";s:36:"btn_solid_primary_hover_border_color";s:9:"#061f141a";s:7:"preload";b:1;s:12:"preload_logo";s:95:"https://sasico.pikathemes.site/digital-agency/wp-content/uploads/sites/7/2025/08/home3-logo.svg";}s:7:"options";a:2:{s:9:"site_icon";s:4:"4602";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:228:":root{
+	--sasi-tag-hover-color: #ffffff;
+	--sasi-social-color-hover: #ffffff;
+}
+.sasi-subscribe-form .sasi-icon:hover{
+	background: #fff;
+	color: #061F14;
+	border-color: #061F141A;
+}
+.blog-post blockquote:before{
+	color: #fff;
+}";}
