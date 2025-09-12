@@ -1,0 +1,25 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:37:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:4638;s:13:"header_layout";s:4:"4603";s:13:"header_mobile";s:2:"19";s:12:"header_fixed";b:0;s:13:"footer_layout";s:2:"24";s:10:"body_color";s:7:"#061f14";s:10:"blog_style";s:4:"grid";s:9:"blog_cols";s:6:"cols-3";s:18:"btn_outline1_color";s:9:"#ffffffa6";s:25:"btn_outline1_border_color";s:9:"#ffffff1a";s:24:"btn_outline1_hover_color";s:7:"#061f14";s:26:"btn_outline1_hover_bgcolor";s:7:"#b7f0df";s:23:"btn_outline1_icon_color";s:7:"#061f14";s:25:"btn_outline1_icon_bgcolor";s:7:"#ffffff";s:29:"btn_outline1_hover_icon_color";s:7:"#b7f0df";s:31:"btn_outline1_hover_icon_bgcolor";s:7:"#061f14";s:12:"bg_body_blog";a:1:{s:16:"background-color";s:0:"";}s:15:"site_theme_mode";s:9:"dark-mode";s:10:"main_color";s:7:"#b7f0df";s:11:"sdark_color";s:0:"";s:23:"btn_solid_primary_color";s:7:"#061f14";s:25:"btn_solid_primary_bgcolor";s:7:"#b7f0df";s:29:"btn_solid_primary_hover_color";s:7:"#061f14";s:31:"btn_solid_primary_hover_bgcolor";s:7:"#ffffff";s:28:"btn_solid_primary_icon_color";s:7:"#ffffff";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#061f14";s:34:"btn_solid_primary_hover_icon_color";s:0:"";s:36:"btn_solid_primary_hover_icon_bgcolor";s:0:"";s:11:"mintc_color";s:7:"#062417";s:26:"btn_solid_dark_hover_color";s:0:"";s:28:"btn_solid_dark_hover_bgcolor";s:0:"";s:7:"preload";b:1;s:12:"preload_logo";s:106:"https://sasico.pikathemes.site/digital-agency-dark/wp-content/uploads/sites/8/2025/08/home3-vdark-logo.svg";s:15:"preload_bgcolor";s:7:"#061f14";s:15:"post_entry_meta";a:4:{i:0;s:4:"tags";i:1;s:4:"date";i:2;s:6:"author";i:3;s:4:"comm";}}s:7:"options";a:2:{s:9:"site_icon";s:1:"7";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1044:".sasi-subscribe-form input[type=email]{
+	color: #132A23;
+	background: #fff;
+	border-color: rgba(24, 27, 33, 0.1);
+}
+.sasi-subscribe-form input[type=email]::-webkit-input-placeholder{
+	color: #132A23;
+}
+.page-header .entry-meta{
+	background: #ffffff1A;
+}
+.widget-area .widget:not(.widget_search){
+	background: rgba(255, 255, 255, 0.03);
+}
+blockquote,input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], input[type=number], input[type=tel], input[type=range], input[type=date], input[type=month], input[type=week], input[type=time], input[type=datetime], input[type=datetime-local], input[type=color], select, textarea{
+	background: #062417; 
+}
+.home-digital-agency-wpcf7 input, .home-digital-agency-wpcf7 textarea{
+	border-color: rgba(255,255,255,0.1);
+	background: transparent!important;
+}
+.home-digital-agency-wpcf7 input, .home-digital-agency-wpcf7 textarea,
+.home-digital-agency-wpcf7 input::-webkit-input-placeholder, .home-digital-agency-wpcf7 textarea::-webkit-input-placeholder{
+	color: #fff;
+}";}
