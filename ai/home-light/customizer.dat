@@ -1,0 +1,40 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:29:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:134;s:11:"sdark_color";s:7:"#0c0119";s:10:"main_color";s:7:"#781bfa";s:23:"btn_solid_primary_color";s:7:"#ffffff";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#ffffff";s:34:"btn_solid_primary_hover_icon_color";s:0:"";s:28:"btn_solid_primary_icon_color";s:7:"#0c0119";s:12:"header_fixed";b:1;s:13:"footer_layout";s:2:"69";s:11:"mintc_color";s:9:"#994aff0d";s:25:"btn_outline1_border_color";s:9:"#994aff26";s:18:"btn_outline1_color";s:7:"#696969";s:24:"btn_outline1_hover_color";s:7:"#ffffff";s:23:"btn_outline1_icon_color";s:7:"#ffffff";s:29:"btn_outline1_hover_icon_color";s:7:"#0c0119";s:31:"btn_outline1_hover_icon_bgcolor";s:7:"#ffffff";s:15:"post_entry_meta";a:4:{i:0;s:4:"tags";i:1;s:4:"date";i:2;s:6:"author";i:3;s:4:"comm";}s:13:"header_layout";s:2:"47";s:13:"header_mobile";s:3:"751";s:12:"bg_body_blog";a:3:{s:16:"background-image";s:95:"https://sasico.pikathemes.site/ai-software/wp-content/uploads/sites/13/2025/09/bg-pheader2.webp";s:19:"background-position";s:10:"center top";s:15:"background-size";s:4:"auto";}s:10:"pheader_bg";a:4:{s:16:"background-image";s:0:"";s:19:"background-position";s:10:"center top";s:17:"background-repeat";s:9:"no-repeat";s:15:"background-size";s:4:"auto";}s:10:"blog_style";s:4:"grid";s:9:"blog_cols";s:6:"cols-2";s:11:"blog_layout";s:15:"sidebar-content";s:7:"preload";b:1;s:12:"preload_logo";s:93:"https://sasico.pikathemes.site/ai-software/wp-content/uploads/sites/13/2025/09/logo-black.svg";s:20:"btn_solid_dark_color";s:7:"#ffffff";}s:7:"options";a:2:{s:9:"site_icon";s:3:"113";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:793:":root{
+	--sasi-tag-hover-color: var(--sasi-color-white);
+	--sasi-social-color-hover: var(--sasi-color-white);
+}
+.e-con {
+  scroll-margin-top: 81px;
+}
+.entry-content{
+	padding-top: 30px;
+}
+.page-header .post-title,
+.page-header .page-title{
+	max-width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.sasi-subscribe-saas input[type=email]{
+	box-shadow: 10px 4px 60px #9240FE80;
+	height: 60px;
+}
+.sasi-subscribe-saas .sasi-btn{
+	margin-top: 5px;
+	right: 5px;
+}
+.sasi-subscribe-form .sasi-icon:hover{
+	background: var(--sasi-color-dark);
+	border-color: var(--sasi-color-dark);
+	color: #fff;
+}
+.sasi-subscribe-form input[type=email]{
+	max-width: none;
+}
+
+.grid-box .btn-readmore .sasi-btn{
+	padding-left: 25px;
+}
+.grid-box .btn-readmore .sasi-btn .sasi-icon{
+	font-size: 14px;
+	padding: 12px;
+}";}
