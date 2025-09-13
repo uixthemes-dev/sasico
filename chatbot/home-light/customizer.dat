@@ -1,0 +1,8 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:22:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:61;s:11:"sdark_color";s:7:"#021b42";s:10:"main_color";s:7:"#004ffc";s:23:"btn_solid_primary_color";s:7:"#ffffff";s:28:"btn_solid_primary_icon_color";s:7:"#004ffc";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#ffffff";s:31:"btn_solid_primary_hover_bgcolor";s:7:"#021b42";s:34:"btn_solid_primary_hover_icon_color";s:7:"#021b42";s:36:"btn_solid_primary_hover_icon_bgcolor";s:0:"";s:13:"header_layout";s:3:"746";s:13:"header_mobile";s:2:"85";s:13:"footer_layout";s:2:"33";s:25:"btn_outline1_border_color";s:9:"#021b421a";s:18:"btn_outline1_color";s:7:"#021b42";s:25:"btn_outline1_icon_bgcolor";s:7:"#021b42";s:23:"btn_outline1_icon_color";s:7:"#ffffff";s:24:"btn_outline1_hover_color";s:7:"#ffffff";s:26:"btn_outline1_hover_bgcolor";s:7:"#021b42";s:7:"preload";b:1;s:12:"preload_logo";s:94:"https://sasico.pikathemes.site/chatbot/wp-content/uploads/sites/9/2025/09/preload-chatbot2.svg";}s:7:"options";a:2:{s:9:"site_icon";s:1:"7";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:225:".sasi-subscribe-form input[type=email]{
+	color: #ffffff;
+	border-color: rgba(255, 255, 255, 0.1);
+	background: rgba(255, 255, 255, 0.05);
+}
+.sasi-subscribe-form input[type=email]::-webkit-input-placeholder{
+	color: #8B98AC;
+}";}
