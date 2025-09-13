@@ -1,0 +1,14 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:33:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:545;s:13:"header_layout";s:2:"12";s:13:"header_mobile";s:2:"85";s:13:"footer_layout";s:2:"33";s:15:"site_theme_mode";s:9:"dark-mode";s:10:"body_color";s:7:"#000b1d";s:10:"main_color";s:7:"#004ffc";s:11:"sdark_color";s:0:"";s:23:"btn_solid_primary_color";s:7:"#ffffff";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#ffffff";s:28:"btn_solid_primary_icon_color";s:7:"#004ffc";s:29:"btn_solid_primary_hover_color";s:7:"#004ffc";s:36:"btn_solid_primary_hover_icon_bgcolor";s:7:"#004ffc";s:22:"btn_solid_dark_bgcolor";s:7:"#001331";s:20:"btn_solid_dark_color";s:7:"#ffffff";s:27:"btn_solid_dark_icon_bgcolor";s:7:"#004ffc";s:26:"btn_solid_dark_hover_color";s:7:"#001331";s:28:"btn_solid_dark_hover_bgcolor";s:7:"#ffffff";s:33:"btn_solid_dark_hover_icon_bgcolor";s:7:"#001331";s:31:"btn_solid_dark_hover_icon_color";s:7:"#ffffff";s:18:"btn_outline1_color";s:7:"#ffffff";s:23:"btn_outline1_icon_color";s:7:"#ffffff";s:25:"btn_outline1_border_color";s:9:"#ffffff1a";s:25:"btn_outline1_icon_bgcolor";s:7:"#1b2638";s:24:"btn_outline1_hover_color";s:7:"#000b1d";s:26:"btn_outline1_hover_bgcolor";s:7:"#ffffff";s:29:"btn_outline1_hover_icon_color";s:7:"#ffffff";s:31:"btn_outline1_hover_icon_bgcolor";s:7:"#1b2638";s:7:"preload";b:1;s:12:"preload_logo";s:100:"https://sasico.pikathemes.site/chatbot-dark/wp-content/uploads/sites/10/2025/08/home4-logo-light.svg";s:15:"preload_bgcolor";s:7:"#000b1d";}s:7:"options";a:2:{s:9:"site_icon";s:3:"703";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:455:".sasi-subscribe-form input[type=email],
+.home-chatbot-wpcf7 input, .home-chatbot-wpcf7 textarea{
+	color: #ffffff;
+	border-color: rgba(255, 255, 255, 0.1);
+	background: rgba(255, 255, 255, 0.05);
+}
+.sasi-subscribe-form input[type=email]::-webkit-input-placeholder,
+.home-chatbot-wpcf7 input::-webkit-input-placeholder, .home-chatbot-wpcf7 textarea::-webkit-input-placeholder{
+	color: #8B98AC;
+}
+.page-id-80 .elementor-icon svg path{
+	fill: currentcolor;
+}
+";}
