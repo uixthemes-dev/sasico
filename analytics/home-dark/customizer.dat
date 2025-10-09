@@ -1,0 +1,47 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:39:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:426;s:11:"mintc_color";s:7:"#15203c";s:10:"main_color";s:7:"#16a34a";s:11:"sdark_color";s:7:"#0f172a";s:23:"btn_solid_primary_color";s:7:"#ffffff";s:28:"btn_solid_primary_icon_color";s:7:"#0f172a";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#ffffff";s:13:"header_layout";s:2:"11";s:23:"btn_outline1_icon_color";s:7:"#ffffff";s:18:"btn_outline1_color";s:0:"";s:24:"btn_outline1_hover_color";s:7:"#ffffff";s:29:"btn_outline1_hover_icon_color";s:7:"#0f172a";s:31:"btn_outline1_hover_icon_bgcolor";s:7:"#ffffff";s:13:"header_mobile";s:2:"33";s:25:"btn_outline1_border_color";s:0:"";s:26:"btn_solid_dark_hover_color";s:7:"#ffffff";s:27:"btn_solid_dark_icon_bgcolor";s:0:"";s:31:"btn_solid_dark_hover_icon_color";s:7:"#0f172a";s:33:"btn_solid_dark_hover_icon_bgcolor";s:7:"#ffffff";s:13:"footer_layout";s:3:"415";s:7:"preload";b:1;s:12:"preload_logo";s:96:"https://sasico.pikathemes.site/analytics-dark/wp-content/uploads/sites/16/2025/10/logo-white.svg";s:18:"preload_logo_width";s:3:"180";s:10:"pheader_bg";a:1:{s:16:"background-color";s:7:"#15203c";}s:14:"pheader_height";a:1:{s:7:"desktop";s:5:"550px";}s:11:"breadcrumbs";b:1;s:11:"blog_layout";s:12:"full-content";s:10:"blog_style";s:4:"grid";s:9:"blog_cols";s:6:"cols-3";s:15:"bpheader_switch";b:1;s:14:"pheader_layout";s:4:"1105";s:10:"grid_style";s:7:"gstyle2";s:12:"is_sidepanel";b:1;s:16:"sidepanel_layout";s:4:"1175";s:15:"preload_bgcolor";s:7:"#0f172a";s:15:"site_theme_mode";s:9:"dark-mode";s:10:"body_color";s:7:"#0f172a";}s:7:"options";a:2:{s:9:"site_icon";s:4:"1189";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1035:".dark-mode{
+	--sasi-social-color-hover: #ffffff;
+	--sasi-tag-hover-color: #ffffff;
+	--sasi-bg-meta-post: #15203C1a;
+}
+.e-con {
+  scroll-margin-top: 77px;
+}
+.page-header .post-title{
+	max-width: 700px;
+}
+.gstyle2 .meta-grid{
+	font-weight: 400;
+}
+.site-main.grid + .page-pagination{
+	margin-top: 70px;
+}
+.post-nav span{
+	font-weight: 400;
+}
+.page-pagination li a{
+	background: #16A34A1A;
+}
+.page-pagination li > span, .page-pagination li a:hover{
+	background: #16A34A;
+	border-color: #16A34A;
+	color: #ffffff;
+}
+.elementor-icon svg path{
+	transition: 0.3s;
+}
+.sasi-subscribe-form input[type=email]{
+	max-width: none;
+	background: #ffffff0D;
+}
+.sasi-cf-form .wpcf7-form-control-wrap input, .sasi-cf-form .wpcf7-form-control-wrap textarea{
+	padding: 20px 25px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .wpcf7-form .row-grid {
+        grid-template-columns: repeat(2, 2fr);
+    }
+}
+.short-line .g-line-vertical{
+	background: linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)!important;
+}
+";}
