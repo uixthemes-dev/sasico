@@ -1,0 +1,45 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Vòng tròn lớn (r=148 để không bị cắt) -->
+  <circle cx="150" cy="150" r="148" fill="none" stroke="#FF6733" stroke-opacity="0.1" stroke-width="1" />
+  <!-- Vòng tròn nhỏ (r=98 để giữ khoảng cách 50px giữa 2 vòng) -->
+  <circle cx="150" cy="150" r="98" fill="none" stroke="#FF6733" stroke-opacity="0.1" stroke-width="1" />
+
+  <!-- Chấm chạy trên vòng tròn lớn -->
+  <g class="orbit orbit-large">
+    <circle cx="150" cy="2" r="2" fill="#FF6733" />
+  </g>
+  <g class="orbit orbit-large" style="animation-delay:-15s">
+    <circle cx="150" cy="2" r="2" fill="#FF6733" />
+  </g>
+
+  <!-- Chấm chạy trên vòng tròn nhỏ -->
+  <g class="orbit orbit-small">
+    <circle cx="150" cy="52" r="2" fill="#FF6733" />
+  </g>
+  <g class="orbit orbit-small" style="animation-delay:-10s">
+    <circle cx="150" cy="52" r="2" fill="#FF6733" />
+  </g>
+
+  <style>
+    .orbit {
+      transform-origin: 150px 150px;
+    }
+    /* Vòng ngoài: quay thuận chiều */
+    .orbit-large {
+      animation: spinLarge 30s linear infinite;
+    }
+    @keyframes spinLarge {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    /* Vòng trong: quay ngược chiều */
+    .orbit-small {
+      animation: spinSmall 20s linear infinite;
+    }
+    @keyframes spinSmall {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(-360deg); }
+    }
+  </style>
+</svg>
