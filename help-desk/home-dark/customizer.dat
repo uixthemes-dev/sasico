@@ -1,0 +1,11 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:34:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:1824;s:13:"header_layout";s:4:"1644";s:13:"header_mobile";s:2:"42";s:13:"footer_layout";s:2:"57";s:15:"site_theme_mode";s:9:"dark-mode";s:10:"main_color";s:7:"#ff6733";s:11:"sdark_color";s:0:"";s:10:"body_color";s:7:"#000000";s:23:"btn_solid_primary_color";s:7:"#ffffff";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#ffffff";s:28:"btn_solid_primary_icon_color";s:7:"#000000";s:29:"btn_solid_primary_hover_color";s:7:"#000000";s:31:"btn_solid_primary_hover_bgcolor";s:7:"#ffffff";s:34:"btn_solid_primary_hover_icon_color";s:7:"#ffffff";s:36:"btn_solid_primary_hover_icon_bgcolor";s:7:"#000000";s:10:"blog_style";s:4:"hori";s:10:"grid_style";s:7:"gstyle2";s:9:"blog_cols";s:6:"cols-2";s:11:"blog_layout";s:12:"full-content";s:15:"post_entry_meta";a:2:{i:0;s:4:"date";i:1;s:6:"author";}s:15:"bpheader_switch";b:1;s:14:"pheader_layout";s:4:"1127";s:24:"btn_outline1_hover_color";s:7:"#ffffff";s:9:"backtotop";b:1;s:12:"bg_backtotop";s:9:"#ffffff1a";s:15:"color_backtotop";s:0:"";s:14:"pheader_height";a:1:{s:7:"desktop";s:5:"580px";}s:10:"pheader_bg";a:1:{s:16:"background-color";s:25:"rgba(255, 255, 255, 0.05)";}s:11:"mintc_color";s:9:"#ffffff0d";s:7:"preload";b:1;s:12:"preload_logo";s:96:"https://sasico.pikathemes.site/help-desk-dark/wp-content/uploads/sites/20/2025/10/logo-vdark.svg";s:15:"preload_bgcolor";s:7:"#000000";}s:7:"options";a:2:{s:9:"site_icon";s:1:"7";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:590:"input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], input[type=number], input[type=tel], input[type=range], input[type=date], input[type=month], input[type=week], input[type=time], input[type=datetime], input[type=datetime-local], input[type=color], select, textarea,
+.cf-startup .wpcf7-form-control-wrap input, .cf-startup .wpcf7-form-control-wrap textarea,
+.widget-area .widget:not(.widget_search),
+blockquote,
+.gstyle2{
+	background: rgba(255,255,255,0.05);
+}
+.dark-mode{
+	--sasi-tag-hover-color: #ffffff;
+	--sasi-social-color-hover: #ffffff;
+}";}
