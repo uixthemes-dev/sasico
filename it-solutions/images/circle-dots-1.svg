@@ -1,0 +1,78 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- 2 đường tròn gốc -->
+  <circle cx="450" cy="-95" r="449.5" stroke="#E91CFF" stroke-opacity="0.1"/>
+  <circle cx="450" cy="-90" r="344.5" stroke="#E91CFF" stroke-opacity="0.1"/>
+
+  <!-- ========================= -->
+  <!-- 3 CHẤM TRÊN CIRCLE 1      -->
+  <!-- ========================= -->
+  
+  <!-- Chấm 1 -->
+  <circle r="4" fill="#E91CFF">
+    <animateMotion dur="12s" repeatCount="indefinite" begin="0s">
+      <mpath href="#c1"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Chấm 2 — lệch 1/3 vòng = 4s -->
+  <circle r="4" fill="#E91CFF">
+    <animateMotion dur="12s" repeatCount="indefinite" begin="4s">
+      <mpath href="#c1"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Chấm 3 — lệch 2/3 vòng = 8s -->
+  <circle r="4" fill="#E91CFF">
+    <animateMotion dur="12s" repeatCount="indefinite" begin="8s">
+      <mpath href="#c1"/>
+    </animateMotion>
+  </circle>
+
+
+  <!-- ========================= -->
+  <!-- 3 CHẤM TRÊN CIRCLE 2 (NGƯỢC CHIỀU) -->
+  <!-- ========================= -->
+
+  <!-- Chấm 1 -->
+  <circle r="4" fill="#E91CFF">
+    <animateMotion dur="9s" repeatCount="indefinite"
+      keyPoints="1;0" keyTimes="0;1" calcMode="linear" begin="0s">
+      <mpath href="#c2"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Chấm 2 — lệch 1/3 vòng = 3s -->
+  <circle r="4" fill="#E91CFF">
+    <animateMotion dur="9s" repeatCount="indefinite"
+      keyPoints="1;0" keyTimes="0;1" calcMode="linear" begin="3s">
+      <mpath href="#c2"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Chấm 3 — lệch 2/3 vòng = 6s -->
+  <circle r="4" fill="#E91CFF">
+    <animateMotion dur="9s" repeatCount="indefinite"
+      keyPoints="1;0" keyTimes="0;1" calcMode="linear" begin="6s">
+      <mpath href="#c2"/>
+    </animateMotion>
+  </circle>
+
+
+  <!-- Path ẩn Circle 1 -->
+  <path id="c1"
+    d="M 450 -95
+       m -449.5 0
+       a 449.5 449.5 0 1 0 899 0
+       a 449.5 449.5 0 1 0 -899 0"
+    fill="none"/>
+
+  <!-- Path ẩn Circle 2 -->
+  <path id="c2"
+    d="M 450 -90
+       m -344.5 0
+       a 344.5 344.5 0 1 0 689 0
+       a 344.5 344.5 0 1 0 -689 0"
+    fill="none"/>
+
+</svg>
