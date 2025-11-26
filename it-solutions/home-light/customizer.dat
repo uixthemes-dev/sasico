@@ -1,0 +1,58 @@
+a:4:{s:8:"template";s:6:"sasico";s:4:"mods";a:30:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:1110;s:11:"sdark_color";s:7:"#020202";s:11:"mintc_color";s:9:"#e91cff12";s:10:"main_color";s:7:"#e91cff";s:23:"btn_solid_primary_color";s:7:"#ffffff";s:28:"btn_solid_primary_icon_color";s:7:"#020202";s:30:"btn_solid_primary_icon_bgcolor";s:7:"#ffffff";s:10:"pheader_bg";a:1:{s:16:"background-color";s:24:"rgba(233, 28, 255, 0.07)";}s:14:"pheader_height";a:1:{s:7:"desktop";s:5:"550px";}s:13:"header_layout";s:4:"1117";s:13:"header_mobile";s:4:"1127";s:13:"footer_layout";s:4:"1142";s:25:"btn_outline1_border_color";s:0:"";s:25:"btn_outline1_icon_bgcolor";s:9:"#e91cff1a";s:24:"btn_outline1_hover_color";s:7:"#ffffff";s:29:"btn_outline1_hover_icon_color";s:7:"#020202";s:31:"btn_outline1_hover_icon_bgcolor";s:7:"#ffffff";s:15:"bpheader_switch";b:1;s:14:"pheader_layout";s:4:"1184";s:11:"blog_layout";s:12:"full-content";s:10:"blog_style";s:4:"grid";s:10:"grid_style";s:7:"gstyle2";s:12:"post_excerpt";b:1;s:15:"ppheader_switch";b:1;s:15:"ppheader_layout";s:4:"1232";s:6:"pf_nav";b:1;s:7:"preload";b:1;s:12:"preload_logo";s:88:"https://sasico.pikathemes.site/it-solutions/wp-content/uploads/sites/23/2025/11/logo.svg";}s:7:"options";a:2:{s:9:"site_icon";s:4:"1120";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1503:".sasi-heading__title span{
+	background: linear-gradient(90deg, #E91CFF, #43BAFF 75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+:root{
+	--sasi-color-text-main: #706F6B;
+	--sasi-color-gray: #E91CFF1A;
+	--sasi-bg-color-gray: #E91CFF1A;
+	--sasi-border-color-input: #E91CFF12;              
+	--sasi-border-focus-input: var(--sasi-color-primary);
+	--sasi-tag-hover-color: #ffffff;
+	--sasi-social-color-hover: #ffffff;
+}
+.gstyle2:hover{
+	background: #E91CFF12;
+}
+.gstyle2 .meta-grid .posted-in{
+	background: var(--sasi-color-primary);
+}
+.gstyle2 .meta-grid .posted-in a{
+	color: #fff;
+	font-size: 14px;
+}
+.site-main.grid+ .page-pagination{
+	margin-top: 70px;
+}
+.page-pagination li a{
+	background: #E91CFF12;
+	border-color: #E91CFF1A;
+	color: var(--sasi-color-text-main);
+}
+.page-pagination li > span, .page-pagination li a:hover{
+	background: #E91CFF;
+	border-color: #E91CFF;
+}
+.main-form .wpcf7-form-control-wrap input, .main-form .wpcf7-form-control-wrap textarea{
+	background: var(--sasi-color-white);
+}
+.main-form p{
+	margin-bottom: 30px;
+}
+.sasi-testimonial-image-aside.image-large .sasi-testimonial-wrap{
+	align-items: self-start;
+}
+.elementor-element-1cd37f9 .owl-dots.sasi-dots-custom, .elementor-element-22b490e5 .owl-dots.sasi-dots-custom{
+	position: relative;
+	z-index: 2;
+	text-align: right;
+}
+@media (min-width: 992px) {
+	.elementor-element-0b33f9a .owl-dots, .elementor-element-d5cb261 .owl-dots{
+        text-align: right;
+        margin-right: 160px;
+    }
+}
+
+";}
